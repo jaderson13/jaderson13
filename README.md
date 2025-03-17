@@ -4,7 +4,7 @@
 
 No meu primeiro contato com a programação já fiquei admirado com essa área. Mesmo com pouco conhecimento são inúmeras as possibilidades de aplicações que podemos desenvolver. Desde então busco diariamente aprimorar minhas habilidades como desenvolvedor para, um dia, viver dos frutos do meu aprendizado.
 
-Planejo atuar tanto no frontend como backend, atualmente estudo principalmente tecnlogias da web como html, css, javaScript, node e react.
+Planejo atuar tanto no frontend como backend, atualmente estudo principalmente tecnologias da web como html, css, javaScript, node e react.
 
 ---
 
